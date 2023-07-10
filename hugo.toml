@@ -1,5 +1,5 @@
 title = "Kétkezes ujjgyakorlatok"
-baseURL = ''
+baseURL = 'https://blog.isti.io'
 
 # This is what goes in <html lang="">
 languageCode = 'hu-hu'
