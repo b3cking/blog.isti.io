@@ -93,5 +93,5 @@ url = "https://twitter.com/b3ck"
 
 [[params.socialIcons]]
 name = "Rss"
-url = "index.xml"
+url = "https://blog.isti.io/index.xml"
 
