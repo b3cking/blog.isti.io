@@ -1,5 +1,5 @@
 ---
-title: A munkahelyi szabadság
+title: A munkahelyi szabadságról
 date: 2023-07-19
 author: Isti
 description: Szabadság mint kapitalista érdek.
