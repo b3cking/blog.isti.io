@@ -47,6 +47,12 @@ disqusShortname = ''
     url = '/about/'
     weight = 30
 
+  [[menu.main]]
+    pageRef="https://isti.io"
+    name = 'ENG'
+    url = '/'
+    weight = 40
+
 [params]
   sitename = "blog.isti.io"
   defaultColor = "dark" # set color mode: dark, light, auto
