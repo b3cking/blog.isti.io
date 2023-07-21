@@ -49,7 +49,7 @@ disqusShortname = ''
 
   [[menu.main]]
     pageRef="https://isti.io"
-    name = 'ENG'
+    name = '🇺🇸'
     url = '/'
     weight = 40
 
