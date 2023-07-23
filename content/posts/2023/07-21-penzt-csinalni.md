@@ -8,4 +8,4 @@ Hallgattam egy előadást valamelyik nap azzal kapcsolatban, hogy az emberek Mag
 
 Az angolok ugye *kiérdemlik* (earn money), az amerikaiak ehhez képest *csinálják* (make money), Németországban *megszolgálják* (Geld verdienen), franciák *elnyerik* (gagner l’argent). Mindenhol valamilyen cselekvés vagy pozitív élmény kötődik a pénzhez, ehhez képest mi Magyarországon keressük, amiben benne van egy vagy-lesz-vagy-nem faktor, mintha nem is igazán rajtunk múlna. Keressük, persze, na de találunk is?
 
-Sok neurolingivisztikával foglalkozó kutatás foglalkozik a nyelv gondolkodásra gyakorolt hatásával ilyen szempontból is, kíváncsi lennék, hogy ez pl. milyen módon befolyásolja a magyar kultúrát és honnan jön eredeztethető.
+Sok neurolingivisztikával foglalkozó kutatás foglalkozik a nyelv gondolkodásra gyakorolt hatásával ilyen szempontból is, kíváncsi lennék, hogy ez pl. milyen módon befolyásolja a magyar kultúrát és honnan eredeztethető.
