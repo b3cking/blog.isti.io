@@ -1,5 +1,5 @@
 ---
-title: Mesterakadémia és Alföldi Róbert
+title: Mesterakadémia Alföldi Róberttel
 date: 2023-07-25
 author: Isti
 description: Alföldi Róbert a Mesterakadémián.
