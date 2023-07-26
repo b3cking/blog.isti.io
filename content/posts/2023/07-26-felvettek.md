@@ -6,4 +6,4 @@ description:
 ---
 ![Felvettek](../images/felvettek.png)
 
-Úgy tűnik, hogy fixen 18 évente kapok egy ilyen sms-t, nem szabad ugye semmi jó dolgot elsietni. Egy másik nézőpontból ugyanaz: feleségem szeptembertől egy szexi egyetemistával él együtt, igazi *SugarMammah* feeling. 😏
+Úgy tűnik, hogy fixen 18 évente kapok egy ilyen sms-t, nem szabad ugye semmi jó dolgot elsietni. Egy másik nézőpontból ugyanaz: feleségem szeptembertől egy fiatal, szexi egyetemistával él együtt, igazi *SugarMammah* feeling. 😏
