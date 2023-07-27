@@ -2,7 +2,7 @@
 title: Felvettek
 date: 2023-07-26
 author: Isti
-description: 
+description: Ismét egyetemista leszek.
 ---
 ![Felvettek](../images/felvettek.png)
 
