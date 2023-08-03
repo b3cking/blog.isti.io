@@ -1,0 +1,51 @@
+<p>Mathematical notation in a Hugo project can be enabled by using
+<a href="https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html">third party JavaScript libraries</a>.</p>
+
+<!--more-->
+
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a>.</p>
+
+<ul>
+  <li>To enable KaTeX globally, set the parameter <code class="language-plaintext highlighter-rouge">math</code> to <code class="language-plaintext highlighter-rouge">true</code> in a project’s
+configuration file as follows.
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">config.toml</code>
+        <div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[params]</span>
+  <span class="py">math</span> <span class="p">=</span> <span class="kc">true</span>
+</code></pre></div>        </div>
+      </li>
+      <li><code class="language-plaintext highlighter-rouge">config.yaml</code>
+        <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">params</span><span class="pi">:</span>
+  <span class="na">math</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div>        </div>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>To enable KaTeX on a per page basis, include the parameter <code class="language-plaintext highlighter-rouge">math: true</code> in
+Front Matter of Markdown content file as follows.</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+math: true
+---
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<p><strong>Note:</strong> The online reference of
+<a href="https://katex.org/docs/supported.html">Supported TeX Functions</a> is a helpful resource.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>
+    <p>Block math:</p>
+
+\[\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }\]
+  </li>
+  <li>
+    <p>Inline math:</p>
+
+    <p>This is an inline polynomial: $5x^2 + 2y -7$.</p>
+  </li>
+</ul>

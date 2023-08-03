@@ -1,0 +1,18 @@
+<h2 id="table-of-content">Table of content</h2>
+
+<p>This theme supports displaying table of content in blog posts.</p>
+
+<p>To enable it, globally set <code class="language-plaintext highlighter-rouge">toc</code> to <code class="language-plaintext highlighter-rouge">true</code> in <code class="language-plaintext highlighter-rouge">config.toml</code>:</p>
+
+<div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[params]</span>
+  <span class="py">toc</span> <span class="p">=</span> <span class="kc">true</span>
+</code></pre></div></div>
+
+<p>This will enable table of content for all posts. If you want to enable it for a specific post, add <code class="language-plaintext highlighter-rouge">toc = true</code> to the front matter of the post:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">How to enable table of content</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2023-05-02</span>
+<span class="na">toc</span><span class="pi">:</span> <span class="no">true</span>
+<span class="nn">---</span>
+</code></pre></div></div>
