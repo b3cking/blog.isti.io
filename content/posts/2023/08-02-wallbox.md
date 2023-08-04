@@ -1,5 +1,5 @@
 ---
-title: Wallbox töltő
+title: Wallbox töltő telepítve
 date: 2023-08-02
 author: Isti
 description: Wallbox felszerelve.

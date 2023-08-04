@@ -1,5 +1,5 @@
 ---
-title: Excel
+title: Excel hirdetések
 date: 2023-07-10
 author: Isti
 description: Mindenáron xls.

@@ -1,5 +1,5 @@
 ---
-title: Fürdőszoba
+title: Fürdőszobai kalandok
 date: 2023-07-27
 author: Isti
 description: Aztán ott a Szavo.

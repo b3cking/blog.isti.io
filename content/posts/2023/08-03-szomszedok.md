@@ -1,5 +1,5 @@
 ---
-title: Szomszédok
+title: Szomszédok és grill
 date: 2023-08-03
 author: Isti
 description: A szomszédokkal érdemes jóban lenni.

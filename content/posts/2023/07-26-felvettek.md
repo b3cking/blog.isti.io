@@ -1,5 +1,5 @@
 ---
-title: Felvettek
+title: Felvettek az egyetemre - megint
 date: 2023-07-26
 author: Isti
 description: Ismét egyetemista leszek.

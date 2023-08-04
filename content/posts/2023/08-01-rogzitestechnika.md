@@ -1,5 +1,5 @@
 ---
-title: Rögzítéstechnika
+title: Rögzítéstechnika jegyzetek
 date: 2023-08-01
 author: Isti
 description: Tiplik és dübelek. Ami mondjuk pont ugyanaz.
