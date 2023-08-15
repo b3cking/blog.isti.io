@@ -9,3 +9,14 @@ Egy jó ideje [YNAB](https://ynab.com)-ben követjük az itthoni költéseket é
 ![Wyze.me insecure connection](../images/wyze.png "Wyze insecure connection")
 
 Értitek, payment szolgáltatóról beszélünk, aki a pluginján keresztül netbankba authentikál kétfaktorosan, ezt bárki komolyan gondolja, hogy ennyire figyelnek oda? Emailben is jeleztem feléjük az aggályaimat, mert az internet biztonsága, ezzel együtt a saját biztonságunk kiemelten fontos.
+
+**Update**
+
+>Kedves István,
+>
+>az oldal jó ideje nem működik. A Wyze korábban sem ezen keresztül volt elérhető.
+>A termék épp fejlesztés alatt áll. Látogass el hozzánk ősszel.
+>
+>Köszönjük. Üdv,
+>
+>[XY]
