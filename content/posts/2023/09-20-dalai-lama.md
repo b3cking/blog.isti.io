@@ -12,4 +12,4 @@ A dalai láma a 80. születésnapjakor beszélgetett közel egy hétig jóbarát
 >
 >– De a buddhizmus szerint - folytatta a dalai láma - egyszer az életben kialakulhat egy olyan különleges kapcsolat két ember között, aminek hatását magunkkal visszük a következő életre is. Ez a buddhista nézőpont. Szóval talán majd akkor. Mindenesetre alig várom már a következő találkozásunkat, csak Isten a tudója, hol kerül majd sor rá. [...]
 
-Ehhez békés nyitottsághoz és emberséghez érdemes mindannyiunknak eljutni. A [könyv](https://moly.hu/konyvek/oszentsege-a-xiv-dalai-lama-desmond-tutu-douglas-carlton-abrams-az-orom-konyve) számtalan további kiváló gondolatot is tartogat egyébként.
+Ehhez a békés nyitottsághoz és emberséghez érdemes mindannyiunknak eljutni. A [könyv](https://moly.hu/konyvek/oszentsege-a-xiv-dalai-lama-desmond-tutu-douglas-carlton-abrams-az-orom-konyve) számtalan további kiváló gondolatot is tartogat egyébként.
